@@ -269,6 +269,8 @@ A point-to-point network link connects two specific devices directly. This type 
 
 ## 7) Disscuss any of the network topology
 
+<img width="507" alt="pic" src="https://github.com/user-attachments/assets/441a0fbc-7e44-4c98-8766-b142ff63063e" />
+
 #### 1. Bus Topology
 
 Bus topology is one of the simplest network configurations where all devices (nodes) are connected to a single communication line, known as the bus. This topology uses a linear structure, with each device tapping into the bus to send and receive data.
